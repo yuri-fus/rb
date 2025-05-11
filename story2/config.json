@@ -1,0 +1,13 @@
+{
+  "storyId": "2",
+  "pages": [
+    {
+      "pageId": "1",
+      "audioFiles": ["rb_00_en_sc_02.mp3", "tmp_er.mp3"]
+    },
+    {
+      "pageId": "2",
+      "audioFiles": ["rb_00_ru_sc_01.mp3"]
+    }
+  ]
+}
