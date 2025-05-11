@@ -1,0 +1,13 @@
+{
+  "storyId": "1",
+  "pages": [
+    {
+      "pageId": "1",
+      "audioFiles": ["start_voiceOver.mp3", "tmp.mp3"]
+    },
+    {
+      "pageId": "2",
+      "audioFiles": ["tmp_ag.mp3"]
+    }
+  ]
+}

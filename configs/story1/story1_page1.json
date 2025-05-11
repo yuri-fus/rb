@@ -1,0 +1,15 @@
+{
+    "page_id": "story1_page1",
+    "audio_triggers": [
+        {
+            "audio_id": "door_creak",
+            "trigger_type": "object_click",
+            "object_name": "Door"
+        },
+        {
+            "audio_id": "wind_ambient",
+            "trigger_type": "auto_play",
+            "delay_seconds": 5.0
+        }
+    ]
+}
