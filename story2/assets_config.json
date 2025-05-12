@@ -1,0 +1,15 @@
+{
+  "storyId": "2",
+  "pages": [
+    {
+      "pageId": "1",
+     
+      "assetBundleName": "level_page1"
+    },
+    {
+      "pageId": "2",
+  
+      "assetBundleName": "level_page2"
+    }
+  ]
+}
