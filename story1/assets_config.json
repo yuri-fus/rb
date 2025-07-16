@@ -1,13 +1,13 @@
 {
-  "storyId": "1",
+  "storyId": "0",
   "pages": [
     {
-      "pageId": "1",
+      "pageId": "0",
      
       "assetBundleName": "level_page1"
     },
     {
-      "pageId": "2",
+      "pageId": "1",
   
       "assetBundleName": "level_page2"
     }
