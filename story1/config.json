@@ -3,11 +3,11 @@
   "pages": [
     {
       "pageId": "0",
-      "audioFiles": ["start_voiceOver.mp3", "tmp.mp3"]
+      "audioFiles": ["tmp.wav"]
     },
     {
       "pageId": "1",
-      "audioFiles": ["tmp_ag.mp3"]
+      "audioFiles": ["tmp_ag.wav"]
     }
   ]
 }
