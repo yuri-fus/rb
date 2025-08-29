@@ -3,19 +3,19 @@
   "pages": [
     {
       "pageId": "0",
-      "audioFiles": ["tmp.wav"]
+      "audioFiles": ["start.wav"]
     },
     {
       "pageId": "1",
-      "audioFiles": ["tmp_ag.wav"]
+      "audioFiles": ["start.wav"]
     },
     {
       "pageId": "2",
-      "audioFiles": ["tmp_page_02.wav"]
+      "audioFiles": ["start.wav"]
     },
     {
       "pageId": "5",
-      "audioFiles": ["tmp_page_05.wav"]
+      "audioFiles": ["start.wav"]
     }		
   ]
 }
