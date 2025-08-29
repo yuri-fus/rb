@@ -8,6 +8,14 @@
     {
       "pageId": "1",
       "audioFiles": ["tmp_ag.wav"]
-    }
+    },
+    {
+      "pageId": "2",
+      "audioFiles": ["tmp_page_02.wav"]
+    },
+    {
+      "pageId": "5",
+      "audioFiles": ["tmp_page_05.wav"]
+    }		
   ]
 }
