@@ -3,12 +3,12 @@
   "pages": [
     {
       "pageId": "0",
-      "audioFiles": ["rb_00_en_sc_02.mp3", "tmp_er.mp3"]
+      "audioFiles": ["rb_00_en_sc_02.wav", "tmp_er.wav"]
       
     },
     {
       "pageId": "1",
-      "audioFiles": ["rb_en.mp3"]
+      "audioFiles": ["rb_en.wav"]
       
     }
   ]
