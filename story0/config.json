@@ -3,7 +3,7 @@
   "pages": [
     {
       "pageId": "0",
-      "audioFiles": ["start.wav"]
+      "audioFiles": ["start.wav", "done.wav", "detales.wav"]
       
     },
     {
