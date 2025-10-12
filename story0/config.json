@@ -3,19 +3,35 @@
   "pages": [
     {
       "pageId": "0",
-      "audioFiles": ["start.wav"]
+      "audioFiles": ["start.wav"], ["done.wav"], ["detales.wav"]
     },
     {
       "pageId": "1",
-      "audioFiles": ["start.wav"]
+      "audioFiles": ["start.wav"], ["done.wav"], ["detales.wav"]
     },
     {
       "pageId": "2",
-      "audioFiles": ["start.wav"]
+      "audioFiles": ["start.wav"], ["done.wav"], ["detales.wav"]
+    },
+    {
+      "pageId": "3",
+      "audioFiles": ["start.wav"], ["done.wav"], ["detales.wav"]
+    },
+    {
+      "pageId": "4",
+      "audioFiles": ["start.wav"], ["done.wav"], ["detales.wav"]
     },
     {
       "pageId": "5",
-      "audioFiles": ["start.wav"]
+      "audioFiles": ["start.wav"], ["done.wav"], ["detales.wav"]
+    },
+    {
+      "pageId": "6",
+      "audioFiles": ["start.wav"], ["done.wav"], ["detales.wav"]
+    },
+    {
+      "pageId": "7",
+      "audioFiles": ["start.wav"], ["done.wav"], ["detales.wav"]
     }		
   ]
 }
