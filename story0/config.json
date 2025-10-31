@@ -13,7 +13,7 @@
     },
     {
       "pageId": "2",
-      "audioFiles": ["start.wav", "done.wav", "detales.wav"]
+      "audioFiles": ["start.wav", "done.wav"]
       
     },
     {
